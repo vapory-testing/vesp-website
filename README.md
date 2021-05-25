@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  Ethereum Ecosystem Support Program
+  Vapory Ecosystem Support Program
 </h1>
 
 The Ethereum Ecosystem Support Program exists to provide both financial and non-financial support to projects and entities within the greater Ethereum community, in order to accelerate the growth of the ecosystem. The Ecosystem Support Program is an expansion of the original Ethereum Grants Program which mainly focused on financial support. Our focus is on deploying our resources where they will have the biggest impact.
